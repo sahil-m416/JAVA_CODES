@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TrailingZeroes",
+            "request": "launch",
+            "mainClass": "TrailingZeroes",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeftRightIndex",
+            "request": "launch",
+            "mainClass": "LeftRightIndex",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProductArrayPuz",
+            "request": "launch",
+            "mainClass": "ProductArrayPuz",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlusOne",
+            "request": "launch",
+            "mainClass": "PlusOne",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
             "name": "Launch Tree",
             "request": "launch",
             "mainClass": "Tree",
