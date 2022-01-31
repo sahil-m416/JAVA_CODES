@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BinarySearchForest",
+            "request": "launch",
+            "mainClass": "BinarySearchForest",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitonicPoint",
+            "request": "launch",
+            "mainClass": "BitonicPoint",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch NCR",
+            "request": "launch",
+            "mainClass": "NCR",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch RightMostNonZero",
+            "request": "launch",
+            "mainClass": "RightMostNonZero",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch GadgetsDora",
+            "request": "launch",
+            "mainClass": "GadgetsDora",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinsGeekLand",
+            "request": "launch",
+            "mainClass": "CoinsGeekLand",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch RevWordByWord",
+            "request": "launch",
+            "mainClass": "RevWordByWord",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch stkovflw$Main",
+            "request": "launch",
+            "mainClass": "stkovflw$Main",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch stkovflw$m",
+            "request": "launch",
+            "mainClass": "stkovflw$m",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch implementation$stkovflw",
+            "request": "launch",
+            "mainClass": "implementation$stkovflw",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch implementation$Main",
+            "request": "launch",
+            "mainClass": "implementation$Main",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CEIL",
+            "request": "launch",
+            "mainClass": "CEIL",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BalancedParantheses",
+            "request": "launch",
+            "mainClass": "BalancedParantheses",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
             "name": "Launch TrailingZeroes",
             "request": "launch",
             "mainClass": "TrailingZeroes",

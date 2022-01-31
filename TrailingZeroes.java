@@ -2,8 +2,12 @@ import java.util.Scanner;
 public class TrailingZeroes {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int n = scan.nextInt();
-        System.out.println(zeroes(n));
+        int t = scan.nextInt();
+        while(t-->0)
+        {
+            int n = scan.nextInt();
+            System.out.println(zeroes(n));
+        }
         scan.close();
     }
     static int zeroes(int n) 
