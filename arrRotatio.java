@@ -16,12 +16,13 @@ public class arrRotatio
         for(int i=0;i<r;i++)
         {
             int temp,j;
-            temp=a[0];
+            temp=a[0];  
             for(j=1;j<n;i++)
             {
-                a[j]= temp;
-                temp = a[j];
+                a[j]= a[j-1];
+                
             }
+            a[n-1] = temp;
         }
         for(int i=0;i<n;i++)
         {

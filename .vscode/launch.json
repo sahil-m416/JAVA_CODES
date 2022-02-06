@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Hset",
+            "request": "launch",
+            "mainClass": "Hset",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BINBASBASIC",
+            "request": "launch",
+            "mainClass": "BINBASBASIC",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch EUREKA",
+            "request": "launch",
+            "mainClass": "EUREKA",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortMatrixDiag",
+            "request": "launch",
+            "mainClass": "SortMatrixDiag",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChocolateDistribution",
+            "request": "launch",
+            "mainClass": "ChocolateDistribution",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dijkstra",
+            "request": "launch",
+            "mainClass": "Dijkstra",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetBitPosition",
+            "request": "launch",
+            "mainClass": "SetBitPosition",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayRotation",
+            "request": "launch",
+            "mainClass": "ArrayRotation",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
             "name": "Launch BinarySearchForest",
             "request": "launch",
             "mainClass": "BinarySearchForest",
