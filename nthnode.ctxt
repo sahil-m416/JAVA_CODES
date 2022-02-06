@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=nthnode
+comment1.params=n
+comment1.target=void\ printnthNode(int)
+comment2.params=new_data
+comment2.target=void\ push(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,686 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Hset",
+            "request": "launch",
+            "mainClass": "Hset",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BINBASBASIC",
+            "request": "launch",
+            "mainClass": "BINBASBASIC",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch EUREKA",
+            "request": "launch",
+            "mainClass": "EUREKA",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortMatrixDiag",
+            "request": "launch",
+            "mainClass": "SortMatrixDiag",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChocolateDistribution",
+            "request": "launch",
+            "mainClass": "ChocolateDistribution",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dijkstra",
+            "request": "launch",
+            "mainClass": "Dijkstra",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetBitPosition",
+            "request": "launch",
+            "mainClass": "SetBitPosition",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayRotation",
+            "request": "launch",
+            "mainClass": "ArrayRotation",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearchForest",
+            "request": "launch",
+            "mainClass": "BinarySearchForest",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitonicPoint",
+            "request": "launch",
+            "mainClass": "BitonicPoint",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch NCR",
+            "request": "launch",
+            "mainClass": "NCR",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch RightMostNonZero",
+            "request": "launch",
+            "mainClass": "RightMostNonZero",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch GadgetsDora",
+            "request": "launch",
+            "mainClass": "GadgetsDora",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinsGeekLand",
+            "request": "launch",
+            "mainClass": "CoinsGeekLand",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch RevWordByWord",
+            "request": "launch",
+            "mainClass": "RevWordByWord",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch stkovflw$Main",
+            "request": "launch",
+            "mainClass": "stkovflw$Main",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch stkovflw$m",
+            "request": "launch",
+            "mainClass": "stkovflw$m",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch implementation$stkovflw",
+            "request": "launch",
+            "mainClass": "implementation$stkovflw",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch implementation$Main",
+            "request": "launch",
+            "mainClass": "implementation$Main",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CEIL",
+            "request": "launch",
+            "mainClass": "CEIL",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BalancedParantheses",
+            "request": "launch",
+            "mainClass": "BalancedParantheses",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrailingZeroes",
+            "request": "launch",
+            "mainClass": "TrailingZeroes",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeftRightIndex",
+            "request": "launch",
+            "mainClass": "LeftRightIndex",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProductArrayPuz",
+            "request": "launch",
+            "mainClass": "ProductArrayPuz",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlusOne",
+            "request": "launch",
+            "mainClass": "PlusOne",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tree",
+            "request": "launch",
+            "mainClass": "Tree",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q",
+            "request": "launch",
+            "mainClass": "Q",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AVGOF3",
+            "request": "launch",
+            "mainClass": "AVGOF3",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BellNumber",
+            "request": "launch",
+            "mainClass": "BellNumber",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CHEF1010",
+            "request": "launch",
+            "mainClass": "CHEF1010",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CHEF10102",
+            "request": "launch",
+            "mainClass": "CHEF10102",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CHEFFAV",
+            "request": "launch",
+            "mainClass": "CHEFFAV",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CHEFTRANS",
+            "request": "launch",
+            "mainClass": "CHEFTRANS",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CHFPROFIT",
+            "request": "launch",
+            "mainClass": "CHFPROFIT",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch COVSPRD",
+            "request": "launch",
+            "mainClass": "COVSPRD",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClimbingStairs",
+            "request": "launch",
+            "mainClass": "ClimbingStairs",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinChange",
+            "request": "launch",
+            "mainClass": "CoinChange",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountTriplets",
+            "request": "launch",
+            "mainClass": "CountTriplets",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeleteAndEarn",
+            "request": "launch",
+            "mainClass": "DeleteAndEarn",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch EXAMTIME",
+            "request": "launch",
+            "mainClass": "EXAMTIME",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch FRGAME",
+            "request": "launch",
+            "mainClass": "FRGAME",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch FRIMEET",
+            "request": "launch",
+            "mainClass": "FRIMEET",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch GivenScore",
+            "request": "launch",
+            "mainClass": "GivenScore",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch HouseRobber",
+            "request": "launch",
+            "mainClass": "HouseRobber",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch HouseRobber2",
+            "request": "launch",
+            "mainClass": "HouseRobber2",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interview",
+            "request": "launch",
+            "mainClass": "Interview",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch JumpGame",
+            "request": "launch",
+            "mainClass": "JumpGame",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch JumpGame2",
+            "request": "launch",
+            "mainClass": "JumpGame2",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Keplerslaw",
+            "request": "launch",
+            "mainClass": "Keplerslaw",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestElement",
+            "request": "launch",
+            "mainClass": "LargestElement",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MEDMIN",
+            "request": "launch",
+            "mainClass": "MEDMIN",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MINFD",
+            "request": "launch",
+            "mainClass": "MINFD",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MUSICHAIR",
+            "request": "launch",
+            "mainClass": "MUSICHAIR",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSubarray",
+            "request": "launch",
+            "mainClass": "MaxSubarray",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinCostofClimbing",
+            "request": "launch",
+            "mainClass": "MinCostofClimbing",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch NFibo",
+            "request": "launch",
+            "mainClass": "NFibo",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextPermutationFin",
+            "request": "launch",
+            "mainClass": "NextPermutationFin",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch OnesCompliment",
+            "request": "launch",
+            "mainClass": "OnesCompliment",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch PINBS",
+            "request": "launch",
+            "mainClass": "PINBS",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch PermutationString",
+            "request": "launch",
+            "mainClass": "PermutationString",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch PossiblePath",
+            "request": "launch",
+            "mainClass": "PossiblePath",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueLL",
+            "request": "launch",
+            "mainClass": "QueueLL",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SUBARRAYXOR",
+            "request": "launch",
+            "mainClass": "SUBARRAYXOR",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleFraction",
+            "request": "launch",
+            "mainClass": "SimpleFraction",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackLL",
+            "request": "launch",
+            "mainClass": "StackLL",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch StocksSell",
+            "request": "launch",
+            "mainClass": "StocksSell",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDotRev",
+            "request": "launch",
+            "mainClass": "StringDotRev",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubarrayWithGivenSum",
+            "request": "launch",
+            "mainClass": "SubarrayWithGivenSum",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch TWOROOKS",
+            "request": "launch",
+            "mainClass": "TWOROOKS",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tribonacci",
+            "request": "launch",
+            "mainClass": "Tribonacci",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch UTKPLC",
+            "request": "launch",
+            "mainClass": "UTKPLC",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch UglyNumber",
+            "request": "launch",
+            "mainClass": "UglyNumber",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrRotatio",
+            "request": "launch",
+            "mainClass": "arrRotatio",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrRotation",
+            "request": "launch",
+            "mainClass": "arrRotation",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch check",
+            "request": "launch",
+            "mainClass": "check",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashcode",
+            "request": "launch",
+            "mainClass": "hashcode",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch mc2",
+            "request": "launch",
+            "mainClass": "mc2",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch minJumps",
+            "request": "launch",
+            "mainClass": "minJumps",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch nextGreaterArray",
+            "request": "launch",
+            "mainClass": "nextGreaterArray",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch nextPermutation",
+            "request": "launch",
+            "mainClass": "nextPermutation",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch nthnode",
+            "request": "launch",
+            "mainClass": "nthnode",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch numRevStck",
+            "request": "launch",
+            "mainClass": "numRevStck",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch oddEven",
+            "request": "launch",
+            "mainClass": "oddEven",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch parity",
+            "request": "launch",
+            "mainClass": "parity",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch postfixCalc",
+            "request": "launch",
+            "mainClass": "postfixCalc",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch romanToInt",
+            "request": "launch",
+            "mainClass": "romanToInt",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch strRevStck",
+            "request": "launch",
+            "mainClass": "strRevStck",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringCC",
+            "request": "launch",
+            "mainClass": "stringCC",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch twosum",
+            "request": "launch",
+            "mainClass": "twosum",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch xmuly",
+            "request": "launch",
+            "mainClass": "xmuly",
+            "projectName": "Sahil_bb6efc20"
+        }
+    ]
+}
