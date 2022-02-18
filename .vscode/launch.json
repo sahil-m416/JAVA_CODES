@@ -6,6 +6,251 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SpecialIndex",
+            "request": "launch",
+            "mainClass": "Searching.SpecialIndex",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxDIfference",
+            "request": "launch",
+            "mainClass": "Arrays.MaxDIfference",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountEle",
+            "request": "launch",
+            "mainClass": "Searching.CountEle",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstOcc",
+            "request": "launch",
+            "mainClass": "Searching.FirstOcc",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mathema",
+            "request": "launch",
+            "mainClass": "Mathema",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfOcc",
+            "request": "launch",
+            "mainClass": "Searching.SumOfOcc",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastOccurence",
+            "request": "launch",
+            "mainClass": "Searching.LastOccurence",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "Searching.BinarySearch",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReduceToZero",
+            "request": "launch",
+            "mainClass": "Arrays.ReduceToZero",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch HELIUM3",
+            "request": "launch",
+            "mainClass": "HELIUM3",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrapRainWater",
+            "request": "launch",
+            "mainClass": "Arrays.TrapRainWater",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MajorityElement",
+            "request": "launch",
+            "mainClass": "Arrays.MajorityElement",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SolveQueries",
+            "request": "launch",
+            "mainClass": "Arrays.SolveQueries",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MovePosNeg",
+            "request": "launch",
+            "mainClass": "Arrays.MovePosNeg",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leaders",
+            "request": "launch",
+            "mainClass": "Arrays.Leaders",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BigFactorial",
+            "request": "launch",
+            "mainClass": "Arrays.BigFactorial",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetOrNot",
+            "request": "launch",
+            "mainClass": "Arrays.SubsetOrNot",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubArraySumZero",
+            "request": "launch",
+            "mainClass": "Arrays.SubArraySumZero",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BestTimeForStock2",
+            "request": "launch",
+            "mainClass": "Arrays.BestTimeForStock2",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BestTimeForStocks",
+            "request": "launch",
+            "mainClass": "Arrays.BestTimeForStocks",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateOfN1",
+            "request": "launch",
+            "mainClass": "Arrays.DuplicateOfN1",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinJumps",
+            "request": "launch",
+            "mainClass": "Arrays.MinJumps",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinMaxDiffHeights",
+            "request": "launch",
+            "mainClass": "Arrays.MinMaxDiffHeights",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CycleRotate",
+            "request": "launch",
+            "mainClass": "Arrays.CycleRotate",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch UnionArray",
+            "request": "launch",
+            "mainClass": "Arrays.UnionArray",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortMerge",
+            "request": "launch",
+            "mainClass": "SortMerge",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch InversionCount",
+            "request": "launch",
+            "mainClass": "Arrays.InversionCount",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch NegativeOneSide",
+            "request": "launch",
+            "mainClass": "Arrays.NegativeOneSide",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortZeroOnes",
+            "request": "launch",
+            "mainClass": "Arrays.SortZeroOnes",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthMin",
+            "request": "launch",
+            "mainClass": "Arrays.KthMin",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinMax",
+            "request": "launch",
+            "mainClass": "Arrays.MinMax",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "Arrays.Reverse",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortInsertion",
+            "request": "launch",
+            "mainClass": "SortInsertion",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortSelection",
+            "request": "launch",
+            "mainClass": "SortSelection",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortBubble",
+            "request": "launch",
+            "mainClass": "SortBubble",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
             "name": "Launch Hset",
             "request": "launch",
             "mainClass": "Hset",
