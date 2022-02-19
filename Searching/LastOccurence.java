@@ -1,5 +1,6 @@
 package Searching;
 
+
 public class LastOccurence {
     static int lastOcc(int a[], int x)
     {
@@ -8,8 +9,13 @@ public class LastOccurence {
         while(low<=high)
         {
             int mid = (low+high)/2;
-            if(a[mid] == x && a[mid+1] !=x)
-                return mid;
+            if(a[mid] == x)
+            {
+                if((mid+1<=high) && (a[mid+1] == x))
+                    low = mid+1;
+                else 
+                    return mid;
+            }
             else
             if(a[mid]>x)
                 high = mid-1;
@@ -20,6 +26,6 @@ public class LastOccurence {
     }
     public static void main(String[] args) {
         int a[] = {1,1,1,2,3,4,4,4,5,6};
-        System.out.println(lastOcc(a, 1));
+        System.out.println(lastOcc(a, 6));
     }
 }

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ClosestSqrt",
+            "request": "launch",
+            "mainClass": "ClosestSqrt",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SolveChallenges",
+            "request": "launch",
+            "mainClass": "Searching.SolveChallenges",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
             "name": "Launch SpecialIndex",
             "request": "launch",
             "mainClass": "Searching.SpecialIndex",
