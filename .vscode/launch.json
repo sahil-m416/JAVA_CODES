@@ -6,6 +6,146 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch aliensAttack",
+            "request": "launch",
+            "mainClass": "aliensAttack",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch trial",
+            "request": "launch",
+            "mainClass": "trial",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthMin",
+            "request": "launch",
+            "mainClass": "ByHeart.KthMin",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BigFactorial",
+            "request": "launch",
+            "mainClass": "BigFactorial",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BigFactorials",
+            "request": "launch",
+            "mainClass": "BigFactorials",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrapRainWater",
+            "request": "launch",
+            "mainClass": "TrapRainWater",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseList",
+            "request": "launch",
+            "mainClass": "ReverseList",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateBy90",
+            "request": "launch",
+            "mainClass": "RotateBy90",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch CounterDiagonal",
+            "request": "launch",
+            "mainClass": "CounterDiagonal",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixMutltiplication",
+            "request": "launch",
+            "mainClass": "MatrixMutltiplication",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpiralTraversal",
+            "request": "launch",
+            "mainClass": "SpiralTraversal",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch RowsColumsZero",
+            "request": "launch",
+            "mainClass": "RowsColumsZero",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch BestTimeForStock2",
+            "request": "launch",
+            "mainClass": "BestTimeForStock2",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch AveragePeople",
+            "request": "launch",
+            "mainClass": "AveragePeople",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch KeyWordCount",
+            "request": "launch",
+            "mainClass": "KeyWordCount",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Compress",
+            "request": "launch",
+            "mainClass": "Strings.Compress",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotationOrNot",
+            "request": "launch",
+            "mainClass": "Strings.RotationOrNot",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SameSpecies",
+            "request": "launch",
+            "mainClass": "Strings.SameSpecies",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimizeChocolateDiff",
+            "request": "launch",
+            "mainClass": "Sorting.MinimizeChocolateDiff",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "Sorting.QuickSort",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
             "name": "Launch ClosestSqrt",
             "request": "launch",
             "mainClass": "ClosestSqrt",

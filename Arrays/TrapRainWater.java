@@ -1,4 +1,4 @@
-package Arrays;
+//  package Arrays;
 
 public class TrapRainWater {
     static int trapper(int a[])
@@ -7,7 +7,7 @@ public class TrapRainWater {
         int high = a.length-1;
         while(low <= high)
         {
-            if(a[low] > a[high])
+            if(a[low] >= a[high])
             {
                 if(a[low]>leftMax)
                     leftMax = a[low];
@@ -25,7 +25,7 @@ public class TrapRainWater {
         return result;
     }
     public static void main(String[] args) {
-        int a[] = {3,0,0,2,0,2};
+        int a[] = {7,4,0,9};
         System.out.println(trapper(a));
     }
 }

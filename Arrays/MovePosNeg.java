@@ -14,7 +14,7 @@ public class MovePosNeg {
         //             a[i] = a[j];
         //             a[j] = temp;
         //         }
-        //         j++;
+        //          j++;
         //     }
         // }
 

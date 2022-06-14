@@ -1,4 +1,3 @@
-package Arrays;
 
 import java.util.ArrayList;
 
@@ -19,6 +18,6 @@ public class BigFactorial {
         return list;
     }
     public static void main(String[] args) {
-        System.out.println(factorial(5));
+        System.out.println(factorial(50));
     }
 }

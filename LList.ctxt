@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LList
+comment1.params=data
+comment1.target=void\ append(int)
+comment2.params=head
+comment2.target=void\ printL(LList.Node)
+comment3.params=head
+comment3.target=int\ midPoint(LList.Node)
+comment4.params=head
+comment4.target=void\ reverseList(LList.Node)
+comment5.params=prev\ current
+comment5.target=LList.Node\ reverseRec(LList.Node,\ LList.Node)
+comment6.params=n
+comment6.target=int\ nthFromEnd(int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

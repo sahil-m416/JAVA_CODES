@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 class romanToInt
 {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ class romanToInt
         map.put('C', 100);
         map.put('D', 500);
         map.put('M', 1000);
-
+        scan.close();
         for(int i=0;i<s.length();i++)
         {
             if(i>0 && (map.get(s.charAt(i)) > map.get(s.charAt(i-1))))

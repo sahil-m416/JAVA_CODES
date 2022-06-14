@@ -1,4 +1,4 @@
-package Arrays;
+// package Arrays;
 
 public class CycleRotate {
     static void rotate(int a[])

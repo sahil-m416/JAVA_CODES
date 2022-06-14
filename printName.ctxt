@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=printName
+comment1.params=name
+comment1.target=void\ greet(java.lang.String)
+numComments=2

@@ -1,12 +1,8 @@
-import java.util.Scanner;
 import java.util.Stack;
 
 public class BalancedParantheses {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        String s = scan.nextLine();
-        System.out.println(valid(s));
-        scan.close();
+        System.out.println(valid("()()()("));
     }
     static boolean valid(String s)
     {

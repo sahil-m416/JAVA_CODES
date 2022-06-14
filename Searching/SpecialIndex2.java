@@ -1,3 +1,5 @@
+package Searching;
+
 public class SpecialIndex2 {
    static  long getOccurence(int arr[], int n, int k)
 {

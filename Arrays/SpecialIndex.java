@@ -1,4 +1,4 @@
-
+package Arrays;
 class SpecialIndex {
     static int index(int a[])
     {

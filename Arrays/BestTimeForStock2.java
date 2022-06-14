@@ -1,4 +1,3 @@
-package Arrays;
 
 public class BestTimeForStock2 {
     public static int stocks(int a[])

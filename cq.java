@@ -1,5 +1,4 @@
-public class cq
-{
+public class cq {
     public static void main(String args[])
     {
         int a[] = { 1,2,3,4,5,6,7};
@@ -16,6 +15,7 @@ public class cq
         
         for(int i : fin)
             System.out.print(i+ " " );
+            System.out.println();
         for(int i : q)
             System.out.print(fin[i] + " ");
         }
