@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RowWitnMaxOne",
+            "request": "launch",
+            "mainClass": "RowWitnMaxOne",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInMatrix",
+            "request": "launch",
+            "mainClass": "SearchInMatrix",
+            "projectName": "Sahil_bb6efc20"
+        },
+        {
+            "type": "java",
             "name": "Launch aliensAttack",
             "request": "launch",
             "mainClass": "aliensAttack",
